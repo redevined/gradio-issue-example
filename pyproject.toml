@@ -13,7 +13,7 @@ description = "Highly customized job overview component for our LoRA training jo
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.8"
-authors = [{ name = "Oliver Wirth", email = "oliver.wirth@mercedes-benz.com" }]
+authors = [{ name = "redevined", email = "wirtholiv@gmail.com" }]
 keywords = [
   "gradio-custom-component",
   "gradio-template-Gallery"
