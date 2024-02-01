@@ -1,0 +1,30 @@
+{
+  "name": "gradio_joboverview",
+  "version": "0.4.17",
+  "description": "Gradio UI packages",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "@gradio/atoms": "0.4.1",
+    "@gradio/button": "^0.2.16",
+    "@gradio/client": "0.10.0",
+    "@gradio/file": "^0.4.8",
+    "@gradio/icons": "0.3.2",
+    "@gradio/image": "0.6.1",
+    "@gradio/json": "^0.1.6",
+    "@gradio/row": "^0.1.1",
+    "@gradio/statustracker": "0.4.3",
+    "@gradio/upload": "0.6.0",
+    "@gradio/utils": "0.2.0",
+    "@gradio/wasm": "0.5.0",
+    "dequal": "^2.0.2"
+  },
+  "main": "./Index.svelte",
+  "main_changeset": true,
+  "exports": {
+    ".": "./Index.svelte",
+    "./package.json": "./package.json"
+  }
+}
